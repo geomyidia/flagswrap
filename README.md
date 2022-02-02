@@ -66,6 +66,7 @@ make
 ./bin/simple -h
 ./bin/simple
 ./bin/simple --bloop
+./bin/version --version
 ./bin/dupe
 ```
 
